@@ -1,0 +1,12 @@
+{
+    "name": "divya/filament-toolkit",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Divya\\FilamentToolkit\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
